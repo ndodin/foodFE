@@ -1,0 +1,6 @@
+{
+  "name": "AnDayDemo - Vietnamese Food Discovery & AI Vision",
+  "description": "Material 3 redesign of AnDayDemo featuring an illustrated Vietnam culinary map, AI vision and ESP32-CAM food recognition, regional dish discovery, favorites, and account management.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
